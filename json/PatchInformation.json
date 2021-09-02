@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "baseurl": "https://github.com/truespace/ProgressLauncher/tree",
+  "patchlist": [
+    {
+      "filename": "data1.txt",
+      "sourceurl": "/",
+      "path": "/",
+      "MD5": "hashvalue"
+    },
+    {
+      "filename": "data2.txt",
+      "sourceurl": "/",
+      "path": "/",
+      "MD5": "hashvalue"
+    },
+    {
+      "filename": "data3.txt",
+      "sourceurl": "/",
+      "path": "/",
+      "MD5": "hashvalue"
+    },
+    {
+      "filename": "data4.txt",
+      "sourceurl": "/",
+      "path": "/",
+      "MD5": "hashvalue"
+    },
+    {
+      "filename": "data5.txt",
+      "sourceurl": "/",
+      "path": "/",
+      "MD5": "hashvalue"
+    },
+    {
+      "filename": "data6.txt",
+      "sourceurl": "/",
+      "path": "/",
+      "MD5": "hashvalue"
+    },
+    {
+      "filename": "subdata1.txt",
+      "sourceurl": "/data/",
+      "path": "/data/",
+      "MD5": "hashvalue"
+    },
+    {
+      "filename": "subdata2.txt",
+      "sourceurl": "/data/",
+      "path": "/data/",
+      "MD5": "hashvalue"
+    }
+
+  ]
+    
+  
+}
